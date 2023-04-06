@@ -1,32 +1,3 @@
-# Hello!  
-  
-
-
-
-### A bout me.  
-Soy un estudiante de ingeneria en informatica, me gusta mucho todo lo que tenga que ver acerca la tecnologia y el aprender cosas nuevas.
-
-Hasta el momento no me decido que lado de la programacion me gusta mas, sea front-end o back-end ya que aun soy muy nuevo en estos aspectos.
-
-Me atrae mucho la programacion web, escritorio, y temas relacionados con la cyber seguridad.
-
-
-
-I am a computer engineering student, I really like everything that has to do with technology and learning new things.
-
-So far I haven't decided which side of programming I like more, be it front-end or back-end since I'm still very new to these aspects.
-
-I am very attracted to web programming, desktop, and topics related to cybersecurity.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
