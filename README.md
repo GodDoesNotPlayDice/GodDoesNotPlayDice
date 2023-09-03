@@ -29,7 +29,7 @@
 
 <div align="left">
    <img width="12" />
-  <img src="https://github.com/GodDoesNotPlayDice/GodDoesNotPlayDice/assets/104604407/b5ffbf35-f0b1-451e-94b7-7fe819578fc1" height="40" alt="ionic logo"  />
+  <img src="https://cdn.discordapp.com/attachments/982116594543099924/1147926197955739769/qwik-logo-4D2D8CA440-seeklogo.png" height="40" alt="ionic logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
   <img width="12" />
