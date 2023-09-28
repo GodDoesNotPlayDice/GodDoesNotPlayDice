@@ -28,6 +28,10 @@
 ###
 
 <div align="left">
+  
+   <img width="12" />
+  <img src="https://github.com/GodDoesNotPlayDice/GodDoesNotPlayDice/assets/104604407/317ed56d-dab2-431a-8077-f6df91d1df82" height="40" alt="qwik"  />
+  <img width="12" />
    <img width="12" />
   <img src="https://cdn.discordapp.com/attachments/982116594543099924/1147926197955739769/qwik-logo-4D2D8CA440-seeklogo.png" height="40" alt="qwik"  />
   <img width="12" />
