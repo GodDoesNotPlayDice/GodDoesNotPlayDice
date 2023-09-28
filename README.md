@@ -30,7 +30,7 @@
 <div align="left">
   
    <img width="12" />
-  <img src="https://github.com/GodDoesNotPlayDice/GodDoesNotPlayDice/assets/104604407/317ed56d-dab2-431a-8077-f6df91d1df82" height="40" alt="qwik"  />
+  <img src="https://cdn.discordapp.com/attachments/982116594543099924/1156978127323545610/react_logo-512.png?ex=6516ef59&is=65159dd9&hm=ccb286464a244688c4ecc98bab63c8bfdc11080a0baf5f8047b4e9f72c8d4187&" height="40" alt="qwik"  />
   <img width="12" />
    <img width="12" />
   <img src="https://cdn.discordapp.com/attachments/982116594543099924/1147926197955739769/qwik-logo-4D2D8CA440-seeklogo.png" height="40" alt="qwik"  />
