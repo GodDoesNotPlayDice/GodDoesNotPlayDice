@@ -50,7 +50,7 @@
    <img width="12" />
     <img src="https://cdn.discordapp.com/attachments/982116594543099924/1169454840859070505/pngaaa.com-562839.png?ex=655576b1&is=654301b1&hm=66dda88c2b2d04ffbd22d87898237293179b3e4d3c2ad8cdbea18c2d536e1697&" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/EndeavourOS_Logo.png" height="40" alt="linux logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
