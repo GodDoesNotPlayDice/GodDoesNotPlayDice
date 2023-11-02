@@ -47,6 +47,7 @@
   <img src="https://cdn.discordapp.com/attachments/982116594543099924/1169454841232379975/pngwing.com.png?ex=655576b1&is=654301b1&hm=821301078a74e79a58f8569ae64d4a81a9bf9ee50105fedfc343c3de84c01b21&" height="40" alt="linux logo"  />
    <img width="12" />
   <img src="https://cdn.discordapp.com/attachments/982116594543099924/1169454840859070505/pngaaa.com-562839.png?ex=655576b1&is=654301b1&hm=66dda88c2b2d04ffbd22d87898237293179b3e4d3c2ad8cdbea18c2d536e1697&" height="40" alt="linux logo"  />
+   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
