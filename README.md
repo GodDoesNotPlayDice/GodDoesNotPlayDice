@@ -44,16 +44,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.discordapp.com/attachments/982116594543099924/1169454841232379975/pngwing.com.png?ex=655576b1&is=654301b1&hm=821301078a74e79a58f8569ae64d4a81a9bf9ee50105fedfc343c3de84c01b21&" height="40" alt="linux logo"  />
+  <img src="https://cdn.discordapp.com/attachments/982116594543099924/1169454841232379975/pngwing.com.png?ex=655576b1&is=654301b1&hm=821301078a74e79a58f8569ae64d4a81a9bf9ee50105fedfc343c3de84c01b21&" height="40" alt="arch logo"  />
    <img width="12" />
-  <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" height="40" alt="linux logo"  />
+  <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" height="40" alt="endvour logo"  />
    <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="40" alt="linux logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="40" alt="ubuntu logo"  />
     <img width="12" />
-  <img src="![image](https://github.com/GodDoesNotPlayDice/GodDoesNotPlayDice/assets/104604407/792217fc-694f-407b-b019-126ccd007dc2)
-" height="40" alt="linux logo"  />
+  <img src="https://cdn.discordapp.com/attachments/982116594543099924/1184173871549644830/1200px-Garuda-blue-sgs.png?ex=658b02db&is=65788ddb&hm=19a9eb641519fa37cd83768d431ea0d813e3bf93318dee23b9960939f4e11448&" height="40" alt="garuda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
