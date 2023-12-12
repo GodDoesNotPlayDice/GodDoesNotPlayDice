@@ -52,7 +52,8 @@
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="40" alt="linux logo"  />
     <img width="12" />
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/45813059/garuda-hyprland.png" height="40" alt="linux logo"  />
+  <img src="![image](https://github.com/GodDoesNotPlayDice/GodDoesNotPlayDice/assets/104604407/792217fc-694f-407b-b019-126ccd007dc2)
+" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
