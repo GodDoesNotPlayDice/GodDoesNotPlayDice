@@ -48,7 +48,7 @@
    <img width="12" />
   <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" height="40" alt="linux logo"  />
    <img width="12" />
-    <img src="https://cdn.discordapp.com/attachments/982116594543099924/1169454840859070505/pngaaa.com-562839.png?ex=655576b1&is=654301b1&hm=66dda88c2b2d04ffbd22d87898237293179b3e4d3c2ad8cdbea18c2d536e1697&" height="40" alt="linux logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="40" alt="linux logo"  />
     <img width="12" />
