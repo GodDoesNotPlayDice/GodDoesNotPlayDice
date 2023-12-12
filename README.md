@@ -55,6 +55,6 @@
   <img src="https://cdn.discordapp.com/attachments/982116594543099924/1184173871549644830/1200px-Garuda-blue-sgs.png?ex=658b02db&is=65788ddb&hm=19a9eb641519fa37cd83768d431ea0d813e3bf93318dee23b9960939f4e11448&" height="40" alt="garuda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://cdn.discordapp.com/attachments/982116594543099924/1184174414015762432/2048px-Kali-dragon-icon.png?ex=658b035d&is=65788e5d&hm=06da3413cc7d4823d99d4da54966d23173e76c63deebff2516607428c1bc297e&" height="40" alt="kali logo"  />
 </div>
