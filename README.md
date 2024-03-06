@@ -1,4 +1,4 @@
-<h2 align="left">I know</h2>
+<h2 align="left">🧠🧠🧠</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">I am learning...</h3>
+<h3 align="left">⚡⚡⚡</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">OS</h4>
+<h4 align="left">💿💿💿</h4>
 
 ###
 
