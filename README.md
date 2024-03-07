@@ -41,6 +41,8 @@
 <div align="left">
   <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" height="40" alt="arch logo"  />
    <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Arcolinux.svg" height="40" alt="arcolinux logo"  />
+   <img width="12" />
   <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" height="40" alt="endvour logo"  />
    <img width="12" />
   <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" height="40" alt="kali logo"  />
