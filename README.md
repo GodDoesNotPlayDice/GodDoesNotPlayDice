@@ -43,7 +43,7 @@
    <img width="12" />
   <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" height="40" alt="endvour logo"  />
    <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" height="40" alt="linux logo"  />
+  <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" height="40" alt="kali logo"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="40" alt="ubuntu logo"  />
     <img width="12" />
@@ -51,5 +51,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" height="40" alt="kali logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" height="40" alt="linux logo"  />
 </div>
