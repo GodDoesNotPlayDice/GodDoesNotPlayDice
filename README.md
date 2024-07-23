@@ -30,6 +30,8 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height="40" alt="react"  />
   <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="40" alt="Vue"  />
+  <img width="12" />
 </div>
 
 ###
@@ -54,4 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" height="40" alt="linux logo"  />
+  <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" height="40" alt="manjaro logo"  />
 </div>
