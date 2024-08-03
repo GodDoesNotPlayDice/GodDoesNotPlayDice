@@ -25,6 +25,6 @@
   <summary><b>🔧 Software and Tools</b></summary>
   <br>
 
-[![Software and Tools](https://skillicons.dev/icons?i=vscode,figma,github,obsidian)](https://skillicons.dev)
+[![Software and Tools](https://skillicons.dev/icons?i=vscode,figma,github,obsidian,linux,kali)](https://skillicons.dev)
 </details>
 
