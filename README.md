@@ -2,12 +2,12 @@
 # 📜 About me
 
 ```hyprland.conf
-general { 
-	softwareEngineer = {
-		name = "Vicente Vasquez"
-	    role = "Software Engineer"
-	    spokenLanguages = ["Spanish", "English"]
-	}
+general {
+ softwareEngineer = {
+  name = "Vicente Vasquez"
+  role = "Software Engineer"
+  spokenLanguages = ["Spanish", "English"]
+  }
 }
 ```
 
