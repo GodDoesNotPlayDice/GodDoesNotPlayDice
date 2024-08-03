@@ -1,3 +1,16 @@
+
+# 📜 About me
+
+```hyprland.conf
+general { 
+	softwareEngineer = {
+		name = "Vicente Vasquez"
+	    role = "Software Engineer"
+	    spokenLanguages = ["Spanish", "English"]
+	}
+}
+```
+
 ## 🛠️ Skills 
 
 <details open>
@@ -25,6 +38,6 @@
   <summary><b>🔧 Software and Tools</b></summary>
   <br>
 
-[![Software and Tools](https://skillicons.dev/icons?i=vscode,figma,github,obsidian,arch,kali)](https://skillicons.dev)
+[![Software and Tools](https://skillicons.dev/icons?i=vscode,figma,github,obsidian)](https://skillicons.dev)
 </details>
 
