@@ -24,7 +24,7 @@ general {
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=django,vue,tailwind)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=django,vue,react,tailwind)](https://skillicons.dev)
 </details>
 
 <details open>
